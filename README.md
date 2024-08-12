@@ -1,7 +1,7 @@
-namespace ShiftVerschluesselung
-{
-    internal class Program
+    namespace ShiftVerschluesselung
     {
+        internal class Program
+        {
         // Die Main-Methode ist der Einstiegspunkt des Programms
         static void Main(string[] args)
         {
